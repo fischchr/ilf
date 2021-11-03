@@ -1,2 +1,2 @@
 # ilf
-I lost (a) file
+I lost a file
